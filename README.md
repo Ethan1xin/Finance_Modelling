@@ -1,0 +1,1 @@
+This is a repo saving my tutorial progress of modelling and EDA exercises in financial data.
